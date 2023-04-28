@@ -7,3 +7,5 @@ It is a project written using OOP as effectively as possible.
 The project has codes that work both in colab and on a local computer.
 
 A simple GUI interface has also been designed.
+
+[Global Al Hub]
